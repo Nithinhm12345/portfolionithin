@@ -662,7 +662,7 @@ button:hover{
     padding: 20px;
 } 
 
-
+@media (max-width: 768px) { .card { flex-direction: column; height: auto; } .subcard1, .subcard2 { width: 100%; text-align: center; margin: 10px 0; } .container2, .container3 { margin-left: 0; margin-top: 20px; } .E1, .E2, .personal2, .project1, .project2, .internship, .online_payment, .framework1, .framework2 { flex-direction: column; align-items: center; margin-top: 20px; } .contact1 { width: 80%; margin-top: 20px; }}
 
 
 
