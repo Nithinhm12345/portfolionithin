@@ -303,7 +303,7 @@ body {
     max-width: 600px;
 }
 
-.pro2 img, .pro3 img, .internship1 video, .online1 video, .djangoproject1 video, .djangoproject2 video {
+.pro2 img, .pro3 img, .internship1 img, .online1 video, .djangoproject1 video, .djangoproject2 video {
     width: 100%;
     border-radius: 10px;
 }
