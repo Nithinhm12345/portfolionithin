@@ -299,7 +299,7 @@ body {
 }
 
 .pro2, .pro3, .internship1, .online1, .djangoproject1, .djangoproject2 {
-    width: 100%;
+    width: 90%;
     max-width: 700px;
 }
 
